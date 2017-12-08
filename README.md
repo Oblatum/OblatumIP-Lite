@@ -9,7 +9,7 @@
 > 欢迎加入 [Oblatum图标官方搅基群][QQ] 与我们谈笑风生。
 
 本图标包采用[NanoIconpack][Nano]开源图标包模板，因此本仓库核心并不是代码，而是图标，因此选用CC-BY-4.0开源协议。
-想使用我们的图标制作其他主题，如Substratum、MIUI、EMUI等，请与我们取得联系。
+* 想使用我们的图标制作其他主题，如Substratum、MIUI、EMUI等，请与我们取得联系。 *
 
 [Oblatum]:https://www.coolapk.com/apk/com.oblatum.iconpack
 [MD]:https://material.io/
