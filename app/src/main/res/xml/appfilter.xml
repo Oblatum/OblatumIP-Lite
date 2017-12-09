@@ -33,8 +33,8 @@
     <item component="ComponentInfo{com.android.music/com.android.music.MovieListActivity}" drawable="video" />
     <item component="ComponentInfo{com.android.VideoPlayer/com.android.VideoPlayer.VideoPlayer}" drawable="video" />
     <item component="ComponentInfo{com.evenwell.gallery/com.fihtdc.gallery.videoplayer.MovieListActivityLauncher}" drawable="video" />
-    <item component="ComponentInfo{com.huawei.hwvplayer/com.huawei.hwvplayer.framework.MainActivity}" drawable="video" />
-    <item component="ComponentInfo{com.huawei.hwvplayer.youku/com.huawei.hwvplayer.framework.MainActivity}" drawable="video" />
+    <item component="ComponentInfo{com.huawei.hwvplayer/com.huawei.hwvplayer.framework.MainActivity}" drawable="emui_hwvplayer" />
+    <item component="ComponentInfo{com.huawei.hwvplayer.youku/com.huawei.hwvplayer.framework.MainActivity}" drawable="emui_youku" />
     <item component="ComponentInfo{com.lenovo.video/com.qiyi.video.manager.activity.WelcomeActivity}" drawable="video" />
     <item component="ComponentInfo{com.letv.android.videoplayer/com.android.videoplayer.PlayerPermissionActivity}" drawable="video" />
     <item component="ComponentInfo{com.meizu.media.video/com.meizu.media.video.VideoMainActivity}" drawable="video" />
@@ -152,16 +152,39 @@
 
     <!-- 华为 / EMUI -->
     <item component="ComponentInfo{com.huawei.android.ds/com.huawei.android.hicloud.ui.activity.NewHiSyncSettingActivity}" drawable="emui_accountagent" />
+
     <item component="ComponentInfo{com.huawei.android.ds/com.huawei.android.hicloud.ui.activity.NewHiSyncSettingActivity}" drawable="emui_vdrive" />
+
     <item component="ComponentInfo{com.huawei.bone/com.huawei.bone.root.SplashActivity}" drawable="emui_bone" />
+
     <item component="ComponentInfo{com.huawei.android.findmyphone/com.huawei.android.findmyphone.ui.FindMyPhoneActivity}" drawable="emui_findmyphone" />
+
     <item component="ComponentInfo{com.huawei.hiskytone/emui_hiskytone" />
+
     <item component="ComponentInfo{com.android.mediacenter/com.android.mediacenter.PageActivity}" drawable="emui_music" />
-    <!-- 华为商城 / Vmall -->
+
     <item component="ComponentInfo{com.vmall.client/com.vmall.client.activity.VmallWapActivity}" drawable="vmall" />
+
+    <item component="ComponentInfo{pl.nenter.app.flashlight_huawei/pl.nenter.app.flashlight_huawei.FullscreenActivity}" drawable="emui_flashlight" />
+
+    <item component="ComponentInfo{com.huawei.gamecenter/com.tencent.assistant.activity.SplashActivity}" drawable="emui_gamebox" />
     
-    <!-- 支付保护中心 / TrustSpace -->
     <item component="ComponentInfo{com.huawei.trustspace/com.huawei.trustspace.mainscreen.LoadActivity}" drawable="emui_trustspace" />
+
+    <item component="ComponentInfo{com.huawei.health/com.huawei.health.MainActivity}" drawable="emui_health" />
+
+    <item component="ComponentInfo{com.huawei.hnreader/com.qq.reader.activity.SplashActivity}" drawable="emui_hnreader" />
+
+    <item component="ComponentInfo{com.huawei.android.hwouc/com.huawei.android.hwouc.ui.activities.MainEntranceActivity}" drawable="emui_hwouc" />
+
+    <item component="ComponentInfo{com.huawei.KoBackup/com.huawei.KoBackup.InitializeActivity}" drawable="emui_kobackup" />
+
+    <item component="ComponentInfo{com.huawei.lives/com.huawei.lifeservice.basefunction.ui.entry.LandingActivity}" drawable="emui_lives" />
+
+    <item component="ComponentInfo{com.huawei.phoneservice/com.huawei.phoneservice.ui.HelpCenterActivity}" drawable="emui_phoneservice" />
+
+    <!-- 花粉俱乐部 / Huawei Club -->
+    <item component="ComponentInfo{com.huawei.fans/com.huawei.fans.activity.MainActivity}" drawable="huawei_fans" />
 
 
     <!-- 百度网盘 / 百度网盘 -->
