@@ -1,5 +1,7 @@
 # Oblatum 图标 Lite
 
+[![](https://ws2.sinaimg.cn/large/006tNc79ly1fmap0axm0gj305d0243ya.jpg "downoad")](https://www.coolapk.com/apk/com.oblatum.iconpack)
+
 ### OblatumIP Lite 是 [Oblatum 图标][Oblatum]的Lite版，以下是 [Oblatum 图标][Oblatum] 的简介。
 
 > [Oblatum 图标][Oblatum] 是一个基于 [Material Design][MD] 设计的图标包，淡化了原有的质感，加入了了透明卡片等不符合MD的元素。灵感来源于PPT制作过程中图片与文字冲突时，简单粗暴的处理方式。图标风格整体偏向不规则卡片，大部分使用 [PS touch][PS] 进行绘制。
