@@ -8,6 +8,10 @@
 
 > 欢迎加入 [Oblatum图标官方搅基群][QQ] 与我们谈笑风生。
 
+### 预览图：
+
+![1](http://image.coolapk.com/apk_image/2017/1112/1510448750881-166044-o_1buo8486djom9md1cndc22aahq-uid-1102491@1440x1920.png.t.jpg)  ![2](http://image.coolapk.com/apk_image/2017/1112/1510448849765-166044-o_1buo8560vgmnclu1mua9boim010-uid-1102491@1440x1920.png.t.jpg) ![3](http://image.coolapk.com/apk_image/2017/1112/1510450167010-166044-o_1buo859951ch5tep16lcip4jee16-uid-1102491@1440x1920.png.t.jpg) ![donate list](http://image.coolapk.com/apk_image/2017/1208/1512527819064-166044-o_1c0qcn30114181oe01ubb6er11q9q-uid-1102491@1440x1920.jpg.t.jpg)
+
 本图标包采用[NanoIconpack][Nano]开源图标包模板，因此本仓库核心并不是代码，而是图标，因此选用CC-BY-4.0开源协议。
 
 **想使用我们的图标制作其他主题，如Substratum、MIUI、EMUI等，请与我们取得联系。**
