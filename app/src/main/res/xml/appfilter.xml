@@ -776,6 +776,7 @@
     <!-- WiFi Key / WiFi Master Key -->
     <item component="ComponentInfo{com.halo.wifikey.wifilocating/com.halo.wifikey.wifilocating.ui.activity.WelcomeActivity}" drawable="wifilocating" />
     <item component="ComponentInfo{com.snda.wifilocating/com.lantern.launcher.ui.MainActivity}" drawable="wifilocating" />
+    <item component="ComponentInfo{com.halo.wifikey.wifilocating/com.lantern.launcher.ui.MainActivity}" drawable="wifilocating" />
 
     <!-- X浏览器 / XBrowser -->
     <item component="ComponentInfo{com.mmbox.xbrowser/com.mmbox.xbrowser.BrowserActivity}" drawable="xbrowser" />
@@ -796,4 +797,25 @@
 
     <!-- 网易云歌词助手 / 网易云歌词助手 -->
     <item component="ComponentInfo{com.knizha.wangYiLP/com.knizha.wangYiLP.MainActivity}" drawable="neteasemusic_lyrics_helper" />
+
+    <!-- 斗鱼直播 / 斗鱼直播 -->
+    <item component="ComponentInfo{air.tv.douyu.android/tv.douyu.view.activity.SplashActivity}" drawable="douyu" />
+
+    <!-- 摩拜单车 / Mobike -->
+    <item component="ComponentInfo{com.mobike.mobikeapp/com.mobike.mobikeapp.SplashActivity}" drawable="mobai" />
+
+    <!-- TripView Lite / TripView Lite -->
+    <item component="ComponentInfo{com.grofsoft.tripview.lite/com.grofsoft.tripview.TripViewActivity}" drawable="tripview_lite" />
+
+    <!-- 追书神器 /  追书神器  -->
+    <item component="ComponentInfo{com.ushaqi.zhuishushenqi/com.ushaqi.zhuishushenqi.ui.SplashActivity}" drawable="zhuishu" />
+
+    <!-- 红外遥控 / Infrared -->
+    <item component="ComponentInfo{cn.nubia.control/cn.nubia.control.ui.IRAppStart}" drawable="nubia_yaokongqi" />
+
+    <!-- 一键清理 / NubiaClean -->
+    <item component="ComponentInfo{cn.nubia.launcher/com.android.launcher3.functionicon.CleanUpIcon}" drawable="nubia_clean" />
+
+    <!-- 一键清理 / NubiaClean -->
+    <item component="ComponentInfo{cn.nubia.launcher/com.android.launcher3.functionicon.LockScreenIcon}" drawable="nubia_update" />
 </resources>
