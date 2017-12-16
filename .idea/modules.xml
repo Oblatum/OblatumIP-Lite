@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/Oblatum Lite.iml" filepath="$PROJECT_DIR$/Oblatum Lite.iml" />
+      <module fileurl="file://$PROJECT_DIR$/OblatumIP-Lite.iml" filepath="$PROJECT_DIR$/OblatumIP-Lite.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
     </modules>
   </component>

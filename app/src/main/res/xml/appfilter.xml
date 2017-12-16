@@ -818,4 +818,25 @@
 
     <!-- 一键清理 / NubiaClean -->
     <item component="ComponentInfo{cn.nubia.launcher/com.android.launcher3.functionicon.LockScreenIcon}" drawable="nubia_update" />
+
+    <!-- Gmail / Gmail -->
+    <item component="ComponentInfo{com.google.android.gm/com.google.android.gm.ConversationListActivityGmail}" drawable="gmail" />
+
+    <!-- Magisk Manager / Magisk Manager -->
+    <item component="ComponentInfo{com.topjohnwu.magisk/com.topjohnwu.magisk.SplashActivity}" drawable="magisk_manager" />
+
+    <!-- ZArchiver Pro / ZArchiver Pro -->
+    <item component="ComponentInfo{ru.zdevs.zarchiver.pro/ru.zdevs.zarchiver.pro.ZArchiver}" drawable="zarchiver" />
+
+    <!-- 微博国际版 / Weibo -->
+    <item component="ComponentInfo{com.weico.international/com.weico.international.activity.LogoActivity}" drawable="weibo" />
+
+    <!-- 虎牙直播 / 虎牙直播 -->
+    <item component="ComponentInfo{com.duowan.kiwi/com.duowan.kiwi.simpleactivity.SplashActivity}" drawable="huyazhibo" />
+
+    <!-- iFlat / iFlat -->
+    <item component="ComponentInfo{com.theme.mumu.flat/com.afollestad.polar.ui.SplashScreen}" drawable="iflat" />
+
+    <!-- 许多卡 / Stocard -->
+    <item component="ComponentInfo{de.stocard.stocard/de.stocard.ui.main.InitActivity}" drawable="stocard" />
 </resources>
