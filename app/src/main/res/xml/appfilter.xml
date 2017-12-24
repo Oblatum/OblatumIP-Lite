@@ -54,23 +54,23 @@
     <item component="ComponentInfo{com.meizu.flyme.scanner/com.meizu.flyme.scanner.activity.ScannerActivity}" drawable="erweima" />
 
     <!-- 日历 / Calendar -->
-    <item component="ComponentInfo{cn.nubia.calendar.preset/cn.nubia.calendar.AllInOneActivity}" drawable="calendar_dynamic" />
-    <item component="ComponentInfo{com.android.calendar/com.android.calendar.AllInOneActivity}" drawable="calendar_dynamic" />
-    <item component="ComponentInfo{com.android.calendar/com.android.calendar.homepage.AllInOneActivity}" drawable="calendar_dynamic" />
-    <item component="ComponentInfo{com.android.calendar/.AllInOneActivity}" drawable="calendar_dynamic" />
-    <item component="ComponentInfo{com.android.calendar/com.android.calendar.LaunchActivity}" drawable="calendar_dynamic" />
-    <item component="ComponentInfo{com.android.calendar/com.android.calendar.LaunchTasksActivity}" drawable="calendar_dynamic" />
-    <item component="ComponentInfo{com.android.calendar/com.meizu.flyme.calendar.AllInOneActivity}" prefix="calendar_dynamic" />
-    <item component="ComponentInfo{com.bbk.calendar/com.bbk.calendar.MainActivity}" drawable="calendar_dynamic" />
-    <item component="ComponentInfo{com.blackberry.calendar/com.blackberry.calendar.AllInOneActivity}" drawable="calendar_dynamic" />
-    <item component="ComponentInfo{com.google.android.calendar/com.android.calendar.AllInOneActivity}" drawable="googlecalendar" />
-    <item component="ComponentInfo{com.lenovo.android.calendar/com.lenovo.android.calendar.SplashActivity}" drawable="calendar_dynamic" />
-    <item component="ComponentInfo{com.lenovo.calendar/com.lenovo.calendar.splashpic.SplashActivity}" drawable="calendar_dynamic" />
-    <item component="ComponentInfo{com.oneplus.calendar/com.android.calendar.AllInOneActivity}" drawable="calendar_dynamic" />
-    <item component="ComponentInfo{com.samsung.android.calendar/com.android.calendar.AllInOneActivity}" drawable="calendar_dynamic" />
-    <item component="ComponentInfo{com.sonymobile.calendar/com.sonymobile.calendar.LaunchActivity}" drawable="calendar_dynamic" />
-    <item component="ComponentInfo{com.yulong.android.calendar/com.yulong.android.calendar.ui.MenuAnimationActivity}" drawable="calendar_dynamic" />
-    <item component="ComponentInfo{com.zui.calendar/com.zui.calendar.MainActivity}" drawable="calendar_dynamic" />
+        <item component="ComponentInfo{cn.nubia.calendar.preset/cn.nubia.calendar.AllInOneActivity}" drawable="calendar_dynamic" />
+        <item component="ComponentInfo{com.android.calendar/com.android.calendar.AllInOneActivity}" drawable="calendar_dynamic" />
+        <item component="ComponentInfo{com.android.calendar/com.android.calendar.homepage.AllInOneActivity}" drawable="calendar_dynamic" />
+        <item component="ComponentInfo{com.android.calendar/.AllInOneActivity}" drawable="calendar_dynamic" />
+        <item component="ComponentInfo{com.android.calendar/com.android.calendar.LaunchActivity}" drawable="calendar_dynamic" />
+        <item component="ComponentInfo{com.android.calendar/com.android.calendar.LaunchTasksActivity}" drawable="calendar_dynamic" />
+        <item component="ComponentInfo{com.android.calendar/com.meizu.flyme.calendar.AllInOneActivity}" prefix="calendar_dynamic" />
+        <item component="ComponentInfo{com.bbk.calendar/com.bbk.calendar.MainActivity}" drawable="calendar_dynamic" />
+        <item component="ComponentInfo{com.blackberry.calendar/com.blackberry.calendar.AllInOneActivity}" drawable="calendar_dynamic" />
+        <item component="ComponentInfo{com.google.android.calendar/com.android.calendar.AllInOneActivity}" drawable="googlecalendar" />
+        <item component="ComponentInfo{com.lenovo.android.calendar/com.lenovo.android.calendar.SplashActivity}" drawable="calendar_dynamic" />
+        <item component="ComponentInfo{com.lenovo.calendar/com.lenovo.calendar.splashpic.SplashActivity}" drawable="calendar_dynamic" />
+        <item component="ComponentInfo{com.oneplus.calendar/com.android.calendar.AllInOneActivity}" drawable="calendar_dynamic" />
+        <item component="ComponentInfo{com.samsung.android.calendar/com.android.calendar.AllInOneActivity}" drawable="calendar_dynamic" />
+        <item component="ComponentInfo{com.sonymobile.calendar/com.sonymobile.calendar.LaunchActivity}" drawable="calendar_dynamic" />
+        <item component="ComponentInfo{com.yulong.android.calendar/com.yulong.android.calendar.ui.MenuAnimationActivity}" drawable="calendar_dynamic" />
+        <item component="ComponentInfo{com.zui.calendar/com.zui.calendar.MainActivity}" drawable="calendar_dynamic" />
 
     <!-- 支付宝 / Alipay -->
     <item component="ComponentInfo{com.eg.android.AlipayGphone/com.eg.android.AlipayGphone.AlipayLogin}" drawable="alipay"/>
@@ -95,7 +95,7 @@
     <item component="ComponentInfo{com.meizu.filemanager/com.meizu.flyme.filemanager.activity.HomeActivity}" drawable="files" />
     <item component="ComponentInfo{com.mobisystems.fileman/com.mobisystems.files.FileBrowser}" drawable="files" />
     <item component="ComponentInfo{com.mobisystems.fileman.sonychina/com.mobisystems.files.FileBrowser}" drawable="files" />
-    <item component="ComponentInfo{com.oneplus.filemanager/com.oneplus.filemanager.HomePageActivity}" drawable="files" />
+    <item component="ComponentInfo{com.oneplus.filemanager/com.oneplus.filemanager.HomePageActivity}" drawable="oneplus_filemanager" />
     <item component="ComponentInfo{com.sec.android.app.myfiles/com.sec.android.app.myfiles.common.MainActivity}" drawable="files" />
     <item component="ComponentInfo{com.sec.android.app.myfiles/com.sec.android.app.myfiles.MainActivity}" drawable="files" />
     <item component="ComponentInfo{com.smartisanos.filemanager/com.smartisan.filemanager.MainActivity}" drawable="files" />
@@ -103,6 +103,45 @@
     <item component="ComponentInfo{com.zui.filemanager/com.zui.filemanager.MainActivity}" drawable="files" />
     <item component="ComponentInfo{org.mokee.filemanager/com.amaze.filemanager.activities.MainActivity}" drawable="files" />
     <item component="ComponentInfo{zte.com.cn.filer/zte.com.cn.filer.FilerActivity}" drawable="files" />
+
+    <!-- 录音机 / Sound Recorder -->
+    <item component="ComponentInfo{cn.nubia.soundrecorder.preset/cn.nubia.soundrecorder.SoundRecorderBrowserActivity}" drawable="sound_recorder" />
+    <item component="ComponentInfo{com.android.bbksoundrecorder/com.android.bbksoundrecorder.SoundRecorder}" drawable="sound_recorder" />
+    <item component="ComponentInfo{com.android.soundrecorder/com.android.soundrecorder.MzRecorderActivity}" drawable="sound_recorder" />
+    <item component="ComponentInfo{com.android.soundrecorder/com.android.soundrecorder.SoundRecorder}" drawable="sound_recorder" />
+    <item component="ComponentInfo{com.htc.soundrecorder/com.htc.soundrecorder.SoundRecorderBG}" drawable="sound_recorder" />
+    <item component="ComponentInfo{com.letv.android.recorder/com.letv.android.recorder.mvp.recorder.view.RecorderActivity}" drawable="sound_recorder" />
+    <item component="ComponentInfo{com.oneplus.soundrecorder/com.oneplus.soundrecorder.SoundRecorder}" drawable="oneplus_soundrecorder" />
+    <item component="ComponentInfo{com.sec.android.app.voicenote/com.sec.android.app.voicenote.main.VNMainActivity}" drawable="sound_recorder" />
+    <item component="ComponentInfo{com.smartisanos.recorder/com.smartisanos.recorder.activity.EmptyActivity}" drawable="sound_recorder" />
+    <item component="ComponentInfo{com.yulong.android.soundrecorder/com.yulong.android.soundrecorder.CP_SoundRecorder}" drawable="sound_recorder" />
+    <item component="ComponentInfo{com.zui.recorder/com.zui.recorder.SoundRecorder}" drawable="sound_recorder" />
+
+    <item component="ComponentInfo{org.lineageos.recorder/org.lineageos.recorder.RecorderActivity}" drawable="linos_recorder" />
+
+    <!-- 便签 / Notes -->
+    <item component="ComponentInfo{cn.nubia.notepad.preset/cn.nubia.notepad.NoteListActivity}" drawable="notes" />
+    <item component="ComponentInfo{com.android.notes/com.android.notes.Notes}" drawable="notes" />
+    <item component="ComponentInfo{com.blackberry.notes/com.blackberry.notes.ui.list.NotesListActivity}" drawable="notes" />
+    <item component="ComponentInfo{com.blackberry.tasks/com.blackberry.tasks.ui.list.TasksListActivity}" drawable="notes" />
+    <item component="ComponentInfo{com.example.android.notepad/com.example.android.notepad.NotePadActivity}" drawable="notes" />
+    <item component="ComponentInfo{com.example.android.notepad/com.example.android.notepad.NotesList}" drawable="notes" />
+    <item component="ComponentInfo{com.fihtdc.note/com.fihtdc.note.NotesActivity}" drawable="notes" />
+    <item component="ComponentInfo{com.htc.task/com.htc.task.TaskListViewActivity}" drawable="notes" />
+    <item component="ComponentInfo{com.letv.android.note/com.letv.android.note.NoteBookListActivity}" drawable="notes" />
+    <item component="ComponentInfo{com.letv.android.note/com.letv.android.note.NoteListActivity}" drawable="notes" />
+    <item component="ComponentInfo{com.mediatek.todos/com.mediatek.todos.TodosActivity}" drawable="notes" />
+    <item component="ComponentInfo{com.meizu.notepaper/com.meizu.flyme.notepaper.app.NotePaperActivity}" drawable="notes" />
+    <item component="ComponentInfo{com.meizu.notepaper/com.meizu.flyme.notepaper.NotePaperActivity}" drawable="notes" />
+    <item component="ComponentInfo{com.miui.notes/com.miui.notes.ui.NotesListActivity}" drawable="notes" />
+    <item component="ComponentInfo{com.oneplus.note/com.oneplus.note.ui.MainActivity}" drawable="oneplus_note" />
+    <item component="ComponentInfo{com.qiku.android.memo/com.qiku.android.coolmemo.ui.CoolMemoActivity}" drawable="notes" />
+    <item component="ComponentInfo{com.samsung.android.app.memo/com.samsung.android.app.memo.Main}" drawable="notes" />
+    <item component="ComponentInfo{com.sonyericsson.notes/com.sonyericsson.notes.NotesListActivity}" drawable="notes" />
+    <item component="ComponentInfo{com.sonymobile.notes/com.sonymobile.notes.dashboard.DashboardActivity}" drawable="notes" />
+    <item component="ComponentInfo{com.wingtech.note/com.wingtech.note.list.NotesListActivity}" drawable="notes" />
+    <item component="ComponentInfo{com.yulong.android.memo/com.yulong.android.coolmemo.ui.CoolMemoActivity}" drawable="notes" />
+    <item component="ComponentInfo{com.zui.notes/com.zui.notes.MainActivity}" drawable="notes" />
 
     <!-- 音乐 / Music -->
     <item component="ComponentInfo{cn.nubia.music.preset/cn.nubia.music.MainActivity}" drawable="music" />
@@ -193,6 +232,7 @@
     <item component="ComponentInfo{com.baidu.tieba/com.baidu.tieba.LogoActivity}" drawable="baidu_tieba"/>
     <!-- 哔哩哔哩 / bilibili -->
     <item component="ComponentInfo{tv.danmaku.bili/tv.danmaku.bili.ui.splash.SplashActivity}" drawable="bilibili"/>
+    <item component="ComponentInfo{com.bilibili.app.in/tv.danmaku.bili.ui.splash.SplashActivity}" drawable="bilibili" />
 
     <!-- Blued / Blued -->
     <item component="ComponentInfo{com.soft.blued/com.soft.blued.ui.welcome.FirstActivity}" drawable="blued"/>
@@ -368,7 +408,7 @@
     <item component="ComponentInfo{com.lewa.gallerynew/com.android.gallery3d.app.GalleryActivity}" drawable="gallery"/>
     <item component="ComponentInfo{com.meizu.media.gallery/com.meizu.media.gallery.GalleryActivity}" drawable="gallery"/>
     <item component="ComponentInfo{com.miui.gallery/com.miui.gallery.activity.HomePageActivity}" drawable="gallery"/>
-    <item component="ComponentInfo{com.oneplus.gallery/com.oneplus.gallery.OPGalleryActivity}" drawable="gallery"/>
+    <item component="ComponentInfo{com.oneplus.gallery/com.oneplus.gallery.OPGalleryActivity}" drawable="oneplus_gallery"/>
     <item component="ComponentInfo{com.sec.android.gallery3d/com.sec.android.gallery3d.app.GalleryOpaqueActivity}" drawable="gallery"/>
     <item component="ComponentInfo{com.sonyericsson.album/com.sonyericsson.album.MainActivity}" drawable="gallery"/>
     <item component="ComponentInfo{com.tct.gallery3d.bb/com.tct.gallery3d.app.PermissionActivity}" drawable="gallery"/>
@@ -499,6 +539,7 @@
     <item component="ComponentInfo{com.bilibili.bilibililive/com.bilibili.bilibililive.splash.SplashActivity}" drawable="bilibili_link"/>
     <!-- 黑域 / Brevent -->
     <item component="ComponentInfo{me.piebridge.brevent/me.piebridge.brevent.ui.BreventActivity}" drawable="heiyu"/>
+    <item component="ComponentInfo{me.piebridge.Lrevent/me.piebridge.brevent.ui.BreventActivity}" drawable="heiyu" />
     <!-- UU加速器 / UU加速器 -->
     <item component="ComponentInfo{com.netease.uu/com.netease.uu.activity.SplashScreenActivity}" drawable="netease_uu"/>
     <!-- 一加社区 / Community -->
@@ -581,6 +622,7 @@
     <item component="ComponentInfo{org.telegram.messenger/org.telegram.ui.LaunchActivity}" drawable="telegram" />
     <!-- Via / Via -->
     <item component="ComponentInfo{mark.via/mark.via.ui.activity.BrowserActivity}" drawable="via" />
+    <item component="ComponentInfo{mark.via.gp/mark.via.ui.activity.BrowserActivity}" drawable="via" />
     <!-- 一个木函 / 一个木函 -->
     <item component="ComponentInfo{com.One.WoodenLetter/com.androlua.Welcome}" drawable="ygmh" />
     <!-- 银联钱包 / 银联钱包 -->
@@ -839,4 +881,10 @@
 
     <!-- 许多卡 / Stocard -->
     <item component="ComponentInfo{de.stocard.stocard/de.stocard.ui.main.InitActivity}" drawable="stocard" />
+
+    <!-- 数字尾巴 / DGtle -->
+    <item component="ComponentInfo{com.funinput.digit/com.funinput.digit.activity.WelcomeActivity}" drawable="digit" />
+
+    <!-- 音乐 / Music -->
+    <item component="ComponentInfo{net.oneplus.music/net.oneplus.music.activity.MainActivity}" drawable="oneplus_music" />
 </resources>
