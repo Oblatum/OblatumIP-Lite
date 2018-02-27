@@ -72,7 +72,8 @@ public class LiteIconActivityV2 extends Activity {
     }
 
     private void init() {
-        setTheme(android.R.style.Theme_DeviceDefault_Wallpaper);
+        // setTheme(android.R.style.Theme_DeviceDefault_Wallpaper);
+        setTheme(android.R.style.Theme_DeviceDefault_Light_DarkActionBar);
 
         displayMetrics = getResources().getDisplayMetrics();
 
