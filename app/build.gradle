@@ -8,8 +8,8 @@ android {
         applicationId "com.oblatum.iconpack.lite"
         minSdkVersion 14
         targetSdkVersion 25
-        versionCode 145
-        versionName "1.6.0 Fix"
+        versionCode 146
+        versionName "2.x_preview Pre-release"
     }
 
     buildTypes {
